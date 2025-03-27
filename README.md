@@ -12,9 +12,6 @@ This GPT-4o powered Flask web app tells you how many calories there are in an im
 $ python3 server.py
 ```
 
-2. Go to http://localhost:5000
-
-
 ## Terminal usage
 
 You can also use it from the terminal:
