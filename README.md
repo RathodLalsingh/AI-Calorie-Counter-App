@@ -1,4 +1,4 @@
-# AI Calorie Counter App
+# AI Calorie Counter App.
 
 This GPT-4o powered Flask web app tells you how many calories there are in an image of a meal you upload
 
