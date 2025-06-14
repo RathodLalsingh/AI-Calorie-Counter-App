@@ -10,11 +10,11 @@ Detects and identifies food items in images through techniques like object detec
 1. Start the server:
 
 ## Tech stack
-Python
-Flask
-OpenCV
-GPT4
-JavaScript
+1.Python
+2.Flask
+3.OpenCV
+4.GPT4
+5.JavaScript
 ```sh
 $ python3 server.py
 ```
