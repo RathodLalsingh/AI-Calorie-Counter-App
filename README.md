@@ -1,11 +1,5 @@
 # AI Calorie Counter App.
 
-#Tech Stack 
-Python
-Flask
-OpenCV
-GPT4
-Javscript
 This GPT-4o powered Flask web app tells you how many calories there are in an image of a meal you upload
 Used to handle routing, HTTP requests, and integration between the frontend, image processing, and AI model.
 ![Image](https://github.com/user-attachments/assets/4d0bed96-c878-41c9-9b86-abf377764306)
